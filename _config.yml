@@ -43,9 +43,12 @@ sass:
   style: :compressed
 
 # Options
+google_adsense: true
+
+
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+google_analytics: G-EJDQ9Z6XYN
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
