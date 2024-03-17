@@ -9,7 +9,6 @@ cover_image: /dub.jpg
 
 # Gems
 plugins:
-  - not-pure-poole
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
