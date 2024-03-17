@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+## Introduce
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+👋 Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.
+
+🌏 I'm from South Korea and living in Seoul.
+
+🔭 I'm currently majoring in Computer science and Software engineering at Hanyang University.
+
+🔥 I'm interested in Artificial Intelligence especially Computer Vision.

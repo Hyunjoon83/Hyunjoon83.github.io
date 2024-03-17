@@ -5,7 +5,7 @@ url: https://vszhub.github.io
 avatar: /banana.jpg
 paginate: 5
 permalink: pretty
-cover_image: /manhattan.webp
+cover_image: /vil.jpg
 
 # Gems
 plugins:
@@ -30,7 +30,7 @@ exclude:
 # Optimize Jekyl SEO Tag
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Hyunjoon Park
   links:
     - https://instagram.com/hjpark_83
     - https://github.com/Hyunjoon83
