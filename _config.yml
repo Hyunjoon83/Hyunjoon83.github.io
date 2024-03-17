@@ -1,7 +1,7 @@
 # Setup
 title: DevLOG_HJ
 description: Studying hard to be a better developer.
-url: https://Hyunjoon83.github.io
+url: https://Hyunjoon83.github.io/Tags/
 avatar: /banana.jpg
 paginate: 5
 permalink: pretty
@@ -44,9 +44,6 @@ sass:
 
 # Options
 google_adsense: true
-
-
-
 # Replace this value and uncomment to enable Google Analytics tracking
 google_analytics: G-EJDQ9Z6XYN
 
