@@ -83,6 +83,15 @@
   }
 }
 
+.counter-badge {
+  text-align: center; /* 가운데 정렬 */
+}
+
+.counter-badge a {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 가운데 정렬 */
+}
+
+
 @media (max-width: $md-width) {
   .avatar-image {
     width: 15%;
