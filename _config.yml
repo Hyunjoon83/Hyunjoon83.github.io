@@ -48,7 +48,9 @@ google_adsense: true
 google_analytics: G-EJDQ9Z6XYN
 
 # Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+layout: default
+comments: true
+disqus: hyunjoon83-github-io
 
 # Specify the author for blog posts
 author:
