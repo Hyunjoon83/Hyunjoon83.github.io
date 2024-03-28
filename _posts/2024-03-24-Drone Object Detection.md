@@ -36,7 +36,7 @@ CycleGAN의 경우 RGB image가 제공이 되었을 때 이에 대응하는 IR i
 
 ![AirSIM](https://cdn2.unrealengine.com/project-airsim-infrastructure-2-2560x1410-e48b37a411d6.png?resize=1&w=1920)
 
-그래서 AIR Sim simulator를 적용하게 되었다. AIR Sim simulator의 경우 가상 환경을 만들기 때문에 도시적인 환ㄱㅇ에 제약을 받을 필요도 없고 현실적인 IR image를 주간/야간 상관 없이 만들어낼 수 있다.
+그래서 AIR Sim simulator를 적용하게 되었다. AIR Sim simulator의 경우 가상 환경을 만들기 때문에 도시적인 환경에 제약을 받을 필요도 없고 현실적인 IR image를 주간/야간 상관 없이 만들어낼 수 있다.
 
 ## RGB/IR fusion object detection
 
